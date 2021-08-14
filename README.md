@@ -6,6 +6,7 @@ TL;DR: IT Director at [PJECZ](https://www.pjecz.gob.mx) | Data Scientist | GNU/L
 
 - [Twitter](https://twitter.com/guivaloz)
 - [LinkedIn](https://www.linkedin.com/in/guivaloz/)
+- [Blog](https://movimientolibre.com/)
 
 ## Skills
 
