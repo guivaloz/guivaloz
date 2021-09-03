@@ -2,10 +2,6 @@
 
 IT Director at [PJECZ](https://www.pjecz.gob.mx) | Data Scientist | GNU/Linux | [Movimiento Libre](https://movimientolibre.com)
 
-## GitHub
-
-[![guivaloz's github stats](https://github-readme-stats.vercel.app/api?username=guivaloz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/guivaloz)
-
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,3 +23,7 @@ IT Director at [PJECZ](https://www.pjecz.gob.mx) | Data Scientist | GNU/Linux | 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guivaloz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guivaloz/)
+
+## GitHub
+
+[![guivaloz's github stats](https://github-readme-stats.vercel.app/api?username=guivaloz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/guivaloz)
